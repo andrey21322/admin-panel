@@ -1,0 +1,180 @@
+{
+  "users": [
+    {
+      "id": 1736280438697,
+      "username": "1",
+      "email": "1@1",
+      "password": "$2b$10$WiG5Z8GjVoziyLnsYlIxc.LUO.3qVkNSWe91bhSGwwBSVuZmOPUeG",
+      "dashboardData": [
+        {
+          "date": "2025-01-01",
+          "product": "Product A",
+          "quantity": 10
+        },
+        {
+          "date": "2025-01-01",
+          "product": "Product B",
+          "quantity": 5
+        },
+        {
+          "date": "2025-01-02",
+          "product": "Product A",
+          "quantity": 7
+        },
+        {
+          "date": "2025-01-02",
+          "product": "Product B",
+          "quantity": 3
+        }
+      ],
+      "notifications": [
+        {
+          "id": 1,
+          "text": "View Purchase",
+          "orderId": 123,
+          "customer": "John Doe",
+          "Amount": 100,
+          "read": false,
+          "favorite": false
+        },
+        {
+          "id": 2,
+          "text": "View Report",
+          "sales": 5000,
+          "month": "January",
+          "read": true,
+          "favorite": false
+        },
+        {
+          "id": 3,
+          "text": "View Purchase",
+          "orderId": 456,
+          "customer": "Jane Smith",
+          "Amount": 250,
+          "read": true,
+          "favorite": true
+        },
+        {
+          "id": 4,
+          "text": "View Purchase",
+          "orderId": 789,
+          "customer": "Alice Brown",
+          "Amount": 300,
+          "read": false,
+          "favorite": false
+        },
+        {
+          "id": 5,
+          "text": "View Purchase",
+          "orderId": 123,
+          "customer": "John Doe",
+          "Amount": 100,
+          "read": false,
+          "favorite": false
+        },
+        {
+          "id": 6,
+          "text": "View Report",
+          "sales": 5000,
+          "month": "January",
+          "read": false,
+          "favorite": false
+        },
+        {
+          "id": 7,
+          "text": "View Purchase",
+          "orderId": 456,
+          "customer": "Jane Smith",
+          "Amount": 250,
+          "read": false,
+          "favorite": true
+        },
+        {
+          "id": 8,
+          "text": "View Purchase",
+          "orderId": 789,
+          "customer": "Alice Brown",
+          "Amount": 300,
+          "read": false,
+          "favorite": false
+        },
+        {
+          "id": 9,
+          "text": "View Purchase",
+          "orderId": 123,
+          "customer": "John Doe",
+          "Amount": 100,
+          "read": false,
+          "favorite": false
+        },
+        {
+          "id": 21,
+          "text": "View Report",
+          "sales": 5000,
+          "month": "January",
+          "read": false,
+          "favorite": false
+        },
+        {
+          "id": 31,
+          "text": "View Purchase",
+          "orderId": 456,
+          "customer": "Jane Smith",
+          "Amount": 250,
+          "read": false,
+          "favorite": true
+        },
+        {
+          "id": 41,
+          "text": "View Purchase",
+          "orderId": 789,
+          "customer": "Alice Brown",
+          "Amount": 300,
+          "read": false,
+          "favorite": false
+        }
+      ],
+      "products": [
+        {
+          "id": "3",
+          "name": "Product 1",
+          "price": 300,
+          "image": "https://avatars.githubusercontent.com/u/75412623",
+          "order": 0
+        },
+        {
+          "id": "2",
+          "name": "Product 2",
+          "price": 221,
+          "image": "https://avatars.githubusercontent.com/u/75412623",
+          "order": 1
+        },
+        {
+          "id": "4",
+          "name": "Product 4",
+          "price": 311,
+          "image": "https://avatars.githubusercontent.com/u/75412623",
+          "order": 3
+        }
+      ]
+    },
+    {
+      "id": 1736332848710,
+      "username": "2",
+      "email": "2@2",
+      "password": "$2b$10$.op9F2dTIk4wfzFs9LwDROkWayO4kxU/RstYx5Q51l6MhOa5vSg9O",
+      "dashboardData": [],
+      "notifications": [],
+      "products": []
+    },
+    {
+      "id": 1738062241223,
+      "username": "3",
+      "email": "3@3",
+      "password": "$2b$10$jT4W6QFDoitABXdGYVKEiebS9qV6tIA5Ya.qPjUWjZppEsHpfM0fW",
+      "dashboardData": [],
+      "notifications": [],
+      "products": []
+    }
+  ]
+}
