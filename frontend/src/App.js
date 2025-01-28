@@ -11,7 +11,7 @@ import Auth from './auth/Auth';
 import config from './config.json';
 
 const translations = config.translations;
-const __url = `${config.REACT_APP_API_BASE}${config.REACT_APP_DATA_URL}`;
+const __url = `${process.env.REACT_APP_API_BASE}${process.env.REACT_APP_DATA_URL}`;
 
 const App = () => {
   const [token, setToken] = useState(localStorage.getItem('token'));
